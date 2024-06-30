@@ -29,29 +29,32 @@ and climate.
   
 # Hardware and Software Requirements
 # Hardware Interfaces
- CPU :- Intel(P-IV)
- RAM :- 2 GB
- HARD DISK :- 20 GB
- MONITOR :- SAGA
- CD Writer :- (Recommended for back
+CPU :- Intel(P-IV)
+RAM :- 2 GB
+HARD DISK :- 20 GB
+MONITOR :- SAGA
+CD Writer :- (Recommended for back
 up)
 
 # Software Requirements
-# Front End Tools:- HTML(Hyper Text Markup Language)
- CSS(Cascading Style Sheet), Bootstrap, JavaScript,Jquery
+# Front End Tools:-
+HTML(Hyper Text Markup Language)
+CSS(Cascading Style Sheet), Bootstrap, JavaScript,Jquery
 
-# Back End Tools:- Python - Django
+# Back End Tools:-
+Python - Django
 
-# Database:- sqlite3
+# Database:-
+sqlite3
 
 # Operating System:-
- Windows XP (Professional)/Windows 7 & above.
+Windows XP (Professional)/Windows 7 & above.
 
 # Web Browsers:-
- Mozilla
- Firefox
- Internet Explorer
- Google Chrome.
+Mozilla
+Firefox
+Internet Explorer
+Google Chrome.
 
 
 # Scope
