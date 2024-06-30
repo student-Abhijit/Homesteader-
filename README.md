@@ -17,16 +17,16 @@ and climate.
 - Check Feedback from farmer.
 - Check reports – daily, weekly, monthly.
 - Download report in excelsheet.
-- 
+  
 # Agro Agencies:-
 - Login, Register.
 - Check training requests from farmers and agricultural students.
-- 
+  
 # Farmer:-
 - Login, register.
 - Quick enquiry related to crops, fertilizers, vegetables, Seeds, Fruits.
 - Search crops, fertilizers, vegetables, Seeds, Fruits.
-- 
+  
 # Hardware and Software Requirements
 # Hardware Interfaces
  CPU :- Intel(P-IV)
@@ -37,18 +37,12 @@ and climate.
 up)
 
 # Software Requirements
-# Front End
-# Tools:-
-Back End
+# Front End Tools:- HTML(Hyper Text Markup Language)
+ CSS(Cascading Style Sheet), Bootstrap, JavaScript,Jquery
 
-# Tools:-
- HTML(Hyper Text Markup Language)
- CSS(Cascading Style Sheet), Bootstrap, JavaScript,Jquery
- Python - Django
+# Back End Tools:- Python - Django
 
-# Database:
--
-sqlite3
+# Database:- sqlite3
 
 # Operating System:-
  Windows XP (Professional)/Windows 7 & above.
